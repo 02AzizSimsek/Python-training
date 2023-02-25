@@ -1,4 +1,4 @@
-"""
+
 ###############
 
 print(3+3)
@@ -77,7 +77,7 @@ a,b,name,isStudent=10,40,"aziz",True
 print(a,b,name,isStudent)
 
 ###############
-"""
+
 #Data Types and Transformation
 
 age=28
