@@ -1,4 +1,4 @@
-"""
+
 ###################
 
 #String Merging
@@ -11,7 +11,6 @@ print(name +" "+surname)
 
 text="My name is " + name +" and my surname is "+surname+".i am "+ age +" years old."
 print(text)
-
 
 ###################
 
@@ -45,7 +44,6 @@ print(userName[::-1])#the process of reading backwards
 
 ###################
 
-
 #String Formatting
 
 name="aziz"
@@ -66,7 +64,6 @@ print(number)
 print("the result is {n:1.3}".format(n=number))#show the decimal part as only 3 digits
 print("the result is {n:1.6}".format(n=number))
 
-"""
 ###################
 
 #String Methods
@@ -109,7 +106,6 @@ print(newResult)
 newResult=words.endswith(".")#last letter inquiry process.Attention!.It has a letter sensitivity
 print(newResult)
 
-
 sentence="I live in Izmir "
 
 result=sentence.replace("Izmir","Istanbul")#the process of changing words
@@ -118,20 +114,5 @@ result=sentence.replace("i","K").replace("l","A")
 print(result)
 
 #you can see more examples on the "w3schools.com" site.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
